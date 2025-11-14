@@ -52,7 +52,7 @@ function FindProxyForURL(url, host) {
         "carbonblack.io", "wcmhkjc.com", "edm-mem.hkjc.com", "vic.cichk.com",
         "gateway-hkjc.goskope.com", "gateway-backup-hkjc.goskope.com",
         "download-hkjc.goskope.com", "achecker-hkjc.goskope.com", "hkjc.goskope.com",
-        "alicdn.com", "youku.com", "eclick.baidu.com", "qbww.com", "hkjc.org.hk"
+        "alicdn.com", "youku.com", "eclick.baidu.com", "qbww.com"
     ];
 
     for (var i = 0; i < ipList.length; i++) {
